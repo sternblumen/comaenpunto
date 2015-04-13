@@ -1,5 +1,5 @@
 body { background-color: #fff1bf; color: #231f20; font-family: 'Roboto', sans-serif; }
 
 .comaenpunto { margin-left: -15px; margin-right: -15px; }
-.comaenpunto .hero { background-image: url("../../img/hero.jpg"); background-repeat: no-repeat; height: 250px; }
+.comaenpunto .hero { background-image: url("../../img/hero.jpg"); background-size: cover; background-repeat: no-repeat; height: 250px; }
 .comaenpunto .logo { float: none; margin-right: auto; margin-left: auto; padding-top: 50px; width: 300px; }
